@@ -12,3 +12,8 @@ gcc -o sudoku sudoku.c -pthread
 ```
 ./sudoku
 ```
+
+
+###Note:
+
+It may be buggy and the code likely isn't amazing.. obviously not production quality!! But just a little fun project. Feel free to submit a PR if you find something wrong that I can/should learn from!
